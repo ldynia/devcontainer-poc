@@ -4,7 +4,7 @@
   "hostRequirements": {
     "cpus": 2,
     "memory": "4gb",
-    "storage": "16gb"
+    "storage": "32gb"
   },
   "features": {
     "ghcr.io/devcontainers-contrib/features/black:2": {"version": "latest"},
